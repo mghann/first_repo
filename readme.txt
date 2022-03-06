@@ -1,4 +1,8 @@
 welcome to my first repo
 learning git is going well so far
 i add this line in update-readme branch
-it is windy today
+<<<<<<< HEAD
+it is cloudy today
+=======
+it is cloudy today
+>>>>>>> update-readme
