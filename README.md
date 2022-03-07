@@ -1,11 +1,11 @@
-#large header 
-##small header 
-here **imagine**
+# large header 
+## small header 
+here **imagine** .
 hello *world*,
 lets play 
--this is
--an unordered
--list 
+- this is
+- an unordered
+- list 
 1. this is 
 2. an ordered 
 3. list
